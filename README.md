@@ -1,6 +1,3 @@
-### 4. mkdir - Make Directory
-Creates new directories.
-
 # Linux and Git Command Cheat Sheet
 ## Linux Commands
 ### 1. ls - List Directory Contents
@@ -11,3 +8,6 @@ Changes the current working directory.
 Displays the full path of the current directory.
 ### 4. mkdir - Make Directory
 Creates new directories.
+### 5. rm - Remove Files/Directories
+Removes files and directories. **Use with caution!**
+
