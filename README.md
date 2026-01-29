@@ -26,7 +26,8 @@ Adds changes to the staging area for the next commit.
 
 ### 12. git status - Check Repository Status
 Shows the state of the working directory and staging area.
-
+### 14. git checkout - Switch Branches
+Switches branches or restores files.
 ### 13. git branch - Manage Branches
 Lists, creates, or deletes branches.
 
