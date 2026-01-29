@@ -4,3 +4,6 @@
 **Basic Usage:**
 ### 2. cd - Change Directory
 Changes the current working directory.
+### 3. pwd - Print Working Directory
+Displays the full path of the current directory.
+
