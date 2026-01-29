@@ -17,3 +17,6 @@ Moves or renames files and directories.
 ### 8. cat - Display File Contents
 Displays, concatenates, and creates files.
 
+## Git Commands
+### 9. git init - Initialize Repository
+Creates a new Git repository.
