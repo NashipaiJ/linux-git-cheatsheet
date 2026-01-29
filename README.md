@@ -30,4 +30,7 @@ Shows the state of the working directory and staging area.
 Switches branches or restores files.
 ### 13. git branch - Manage Branches
 Lists, creates, or deletes branches.
+### 15. git merge - Merge Branches
+Combines changes from one branch into another branch.
 
+#Happy coding
