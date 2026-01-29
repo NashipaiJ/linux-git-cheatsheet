@@ -12,3 +12,5 @@ Creates new directories.
 Removes files and directories. **Use with caution!**
 ### 6. cp - Copy Files and Directories
 Copies files and directories.
+### 7. mv - Move/Rename Files
+Moves or renames files and directories.
