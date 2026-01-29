@@ -24,3 +24,6 @@ Creates a new Git repository.
 Adds changes to the staging area for the next commit.
 ### 11. git commit - Commit Changes
 
+### 12. git status - Check Repository Status
+Shows the state of the working directory and staging area.
+
