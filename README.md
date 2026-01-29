@@ -14,3 +14,6 @@ Removes files and directories. **Use with caution!**
 Copies files and directories.
 ### 7. mv - Move/Rename Files
 Moves or renames files and directories.
+### 8. cat - Display File Contents
+Displays, concatenates, and creates files.
+
