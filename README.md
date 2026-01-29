@@ -10,4 +10,5 @@ Displays the full path of the current directory.
 Creates new directories.
 ### 5. rm - Remove Files/Directories
 Removes files and directories. **Use with caution!**
-
+### 6. cp - Copy Files and Directories
+Copies files and directories.
