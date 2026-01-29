@@ -20,3 +20,6 @@ Displays, concatenates, and creates files.
 ## Git Commands
 ### 9. git init - Initialize Repository
 Creates a new Git repository.
+### 10. git add - Stage Changes
+Adds changes to the staging area for the next commit.
+
