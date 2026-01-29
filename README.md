@@ -22,4 +22,5 @@ Displays, concatenates, and creates files.
 Creates a new Git repository.
 ### 10. git add - Stage Changes
 Adds changes to the staging area for the next commit.
+### 11. git commit - Commit Changes
 
